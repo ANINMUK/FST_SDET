@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1656909983529,1701,,200,"Number of samples in transaction : 3, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,4852,2,2,0,1,0,TDB002X2O-TP
+1656909983061,2094,,200,"Number of samples in transaction : 3, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,4912,2,2,0,1,0,TDB002X2O-TP
+1656909985302,934,enter store,200,"Number of samples in transaction : 1, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,5419,2,2,0,1,0,TDB002X2O-TP
+1656909985288,998,enter store,200,"Number of samples in transaction : 1, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,5419,2,2,0,1,0,TDB002X2O-TP
+1656909986287,682,click on sign in,200,"Number of samples in transaction : 2, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,4484,2,2,0,1,0,TDB002X2O-TP
+1656909986240,871,click on sign in,200,"Number of samples in transaction : 2, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,4480,2,2,0,1,0,TDB002X2O-TP
+1656909986971,403,click on register now,200,"Number of samples in transaction : 2, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,6582,2,2,0,1,0,TDB002X2O-TP
+1656909987114,379,click on register now,200,"Number of samples in transaction : 2, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,6580,2,2,0,1,0,TDB002X2O-TP
+1656909987375,1058,provide us,200,"Number of samples in transaction : 1, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,299404,2,2,0,1,0,TDB002X2O-TP
+1656909987494,1241,provide us,200,"Number of samples in transaction : 1, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,299412,2,2,0,1,0,TDB002X2O-TP
+1656909988437,415,save account information-11,200,,127.0.0.1-Thread Group 1-1,true,,4946,2,2,205,1,0,TDB002X2O-TP
+1656909988853,190,save account information-12,200,,127.0.0.1-Thread Group 1-1,true,,4728,2,2,189,1,0,TDB002X2O-TP
+1656909988736,389,save account information-11,200,,127.0.0.1-Thread Group 1-2,true,,4946,2,2,185,1,0,TDB002X2O-TP
+1656909989044,139,save account information-13,200,OK,127.0.0.1-Thread Group 1-1,true,,1314,2,2,139,1,0,TDB002X2O-TP
+1656909988436,744,save account information,200,"Number of samples in transaction : 3, number of failing samples : 0",127.0.0.1-Thread Group 1-1,true,,10988,2,2,533,1,0,TDB002X2O-TP
+1656909989126,197,save account information-12,200,,127.0.0.1-Thread Group 1-2,true,,4728,1,1,197,1,0,TDB002X2O-TP
+1656909989323,155,save account information-13,200,OK,127.0.0.1-Thread Group 1-2,true,,1270,1,1,155,1,0,TDB002X2O-TP
+1656909988735,741,save account information,200,"Number of samples in transaction : 3, number of failing samples : 0",127.0.0.1-Thread Group 1-2,true,,10944,1,1,537,1,0,TDB002X2O-TP

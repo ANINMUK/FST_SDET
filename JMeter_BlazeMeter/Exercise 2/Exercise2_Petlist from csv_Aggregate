@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1656500484066,1444,launch petstore,200,,Thread Group 1-1,text,true,,1442,126,1,1,https://petstore.octoperf.com/,1444,0,922
+1656500485511,0,Launch pet categories,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Host may not be blank,Thread Group 1-1,text,false,,1430,0,1,1,https:/%20https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH,0,0,0
+1656500485513,255,launch petstore,200,,Thread Group 1-1,text,true,,1442,126,1,1,https://petstore.octoperf.com/,255,0,0
+1656500485769,973,Launch pet categories,200,,Thread Group 1-1,text,true,,4745,178,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS,947,0,0
+1656500486743,616,launch petstore,200,,Thread Group 1-1,text,true,,1442,179,1,1,https://petstore.octoperf.com/,616,0,0
+1656500487358,262,Launch pet categories,200,,Thread Group 1-1,text,true,,3422,235,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES,262,0,0
+1656500487620,288,launch petstore,200,,Thread Group 1-1,text,true,,1442,179,1,1,https://petstore.octoperf.com/,288,0,0
+1656500487909,383,Launch pet categories,200,,Thread Group 1-1,text,true,,3416,231,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,383,0,0
+1656500488293,272,launch petstore,200,,Thread Group 1-1,text,true,,1442,179,1,1,https://petstore.octoperf.com/,271,0,0
+1656500488565,449,Launch pet categories,200,,Thread Group 1-1,text,true,,3420,232,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS,449,0,0
